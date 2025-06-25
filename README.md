@@ -1,6 +1,6 @@
 # High Frequency
 
-**JSON Link:**
+**JSON Link:** https://raw.githubusercontent.com/enthusiastick/highfrequency/main/highfrequency.json
 
 *& Check out my [script hub](https://botc.eben.games/ "Blood on the Clocktower scripts by eben")!*
 
@@ -25,16 +25,16 @@ Icon | Character | Text
 Icon | Character | Text
 --- | --- | ---
 ![Hermit](https://wiki.bloodontheclocktower.com/images/b/b4/Icon_hermit.png) | **Hermit** | You have all Outsider abilities. [-0 or -1 Outsider]
-![Moonchild](https://wiki.bloodontheclocktower.com/images/d/dc/Icon_moonchild.png) | **Moonchild** | When you learn that you died, publicly choose 1 alive player. Tonight, if it was a good player, they die.
 ![Hatter](https://wiki.bloodontheclocktower.com/images/4/44/Icon_hatter.png) | **Hatter** | If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be.
 ![Damsel](https://wiki.bloodontheclocktower.com/images/d/dc/Icon_damsel.png) | **Damsel** | All Minions know a Damsel is in play. If a Minion publicly guesses you (once), your team loses.
+![Heretic](https://wiki.bloodontheclocktower.com/images/4/4a/Icon_heretic.png) | **Heretic** | Whoever wins, loses & whoever loses, wins, even if you are dead.
 
 ### Minion
 Icon | Character | Text
 --- | --- | ---
 ![DevilsAdvocate](https://wiki.bloodontheclocktower.com/images/0/09/Icon_devilsadvocate.png) | **Devil's Advocate** | Each night, choose a living player (different to last night): if executed tomorrow, they don't die.
+![Summoner](https://wiki.bloodontheclocktower.com/images/1/1a/Icon_summoner.png) | **Summoner** | You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]
 ![EvilTwin](https://wiki.bloodontheclocktower.com/images/f/f4/Icon_eviltwin.png) | **Evil Twin** | You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live.
-![ScarletWoman](https://wiki.bloodontheclocktower.com/images/1/13/Icon_scarletwoman.png) | **Scarlet Woman** | If there are 5 or more players alive & the Demon dies, you become the Demon. (Travellers don't count.)
 ![Boffin](https://wiki.bloodontheclocktower.com/images/e/e0/Icon_boffin.png) | **Boffin** | The Demon (even if drunk or poisoned) has a not-in-play good character's ability. You both know which.
 
 ### Demon
